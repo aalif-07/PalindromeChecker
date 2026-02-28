@@ -1,20 +1,4 @@
-
-
-        /**
-         * ==================================================================
-         * MAIN CLASS - UseCase2PalindromeCheckerApp
-         * ==================================================================
-         *
-         * Use Case 2: Hardcoded Palindrome Validation
-         *
-         * Description:
-         * This class demonstrates basic palindrome validation
-         * using a hardcoded string value.
-         *
-         * @author Developer
-         * @version 2.0
-         */
-        public class PalindromeCheckerApp {
+public class PalindromeCheckerApp {
 
             public static void main(String[] args) {
 
